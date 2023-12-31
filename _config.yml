@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Barp"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Alessandro Barp"
 description              : &description "personal description"
