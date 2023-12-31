@@ -6,17 +6,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Geometry Vs Statistics: clarity, conspiracy and fairness"
+    url: /geometryVsstatistics/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Dance"
+    url: /dance/
         
-  - title: "Blog Posts"
+  - title: "Contact"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
