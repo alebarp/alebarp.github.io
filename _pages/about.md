@@ -11,14 +11,17 @@ redirect_from:
 
 I am a senior research associate at the Alan Turing Institute working on geometric statistics and deep learning as part of [Turing-Roche parthnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
 
-I did the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at Cambridge. 
-As we enter the large data sets era, it is increasingly important to understand the structure of data, such as its reduction, missingness, and how to incorporate misspecification, uncertatiny and domain knowledge in our models.
-Hence I focused on statistics during my PhD at Imperial College London and Postdoc at Cambridge, more specfically on Markov Chain Monte Carlo and statistical inference whose aim is to sample and approximate complex distributions.
-I now also work on geometric deep learning, which aims to gain a better understanding of the models we build using neural networks.
+My academic journey includes completing the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at the University of Cambridge.
+As we enter the large data sets era, there is a growing necessity to comprehend the structure of data, encompassing aspects like reduction, missing data handling, and the integration of misspecification, uncertainty, and domain knowledge into our models. 
+This motivated my doctoral research in statistics at Imperial College London and Postdoc at Cambridge, more specfically on Markov Chain Monte Carlo and statistical inference which aim to sample and approximate complex distributions.
+Presently, my research scope has expanded to include work on geometric deep learning, in order to gain insights in the learning process.
 
 
 
-A data-driven personal website
+
+A total approach to diversity - in life and research
 ======
+
+
 
 
