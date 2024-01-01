@@ -11,7 +11,7 @@ redirect_from:
 
 I am a senior research associate at the Alan Turing Institute working on geometric statistics and deep learning as part of [Turing-Roche parthnership]([https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership]).
 
-I did the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at Cambridge. I then decided to move into statistics for my PhD at Imperial College London (despite not knowing what a random variable was).
+I did the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at Cambridge. I then decided to move into statistics for my PhD at Imperial College London (despite not knowing what a random variable was). s
 
 
 
