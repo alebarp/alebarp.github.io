@@ -22,6 +22,8 @@ Presently, my research scope has expanded to include work on geometric deep lear
 A total approach to diversity - in life and research
 ======
 
+<a href=“https://drive.google.com/file/d/19VvyOOSWJSPI5edHI6DofG1ZCp4uUSsz/view?usp=share_link”>link-text</a>
+
 
 
 
