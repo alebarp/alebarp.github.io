@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "geometryandstats"
+title: "The geometry of statistics"
 permalink: /geometryandstats/
 author_profile: true
 redirect_from:
