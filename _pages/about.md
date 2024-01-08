@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Science of Uncertainty"
+title: "My background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,10 +19,14 @@ Presently, my research scope has expanded to include work on geometric deep lear
 
 
 
-A total approach to diversity - in life and research
+Geometry of Statistics
 ======
 
-[Yo](https://drive.google.com/file/d/19VvyOOSWJSPI5edHI6DofG1ZCp4uUSsz/view?usp=share_link)
+Despite the fact geometric tools are being increasingly leveraged acrosss statistical methodologies,
+geometry remains notably absent from the educational curriculum of most statistics departments,
+underscoring the perception it is not directly pertinent to the training of mathematical statisticians.
+It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
+Find out why [here](https://drive.google.com/file/d/19VvyOOSWJSPI5edHI6DofG1ZCp4uUSsz/view?usp=share_link)!
 
 
 
