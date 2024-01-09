@@ -37,7 +37,7 @@ For instance, when constructing measure-preserving systems for sampling/inferenc
 On the other hand, when we construct bias-correction tools, we often only use its cocycle structures, while when we study ergodicity we typically use its measure-class structure, in which distributions are viewed as faithful normal weights.
 
 Understanding the foundations of distributions is vital to create a genuinely interdisciplinary environment that amalgamates insights from statisticians, physicists, and mathematicians. It is the reason why for the last three years I have been working on the "Unravelling a Geometric Conspiracy" article, currently in progress, see 
-<a href="https://alebarp.github.io/">Geometry of Statistics</a>.
+<a href="https://alebarp.github.io/">The unity of statistics</a>.
 
   
 
