@@ -42,11 +42,10 @@ the form of the equations."
     </p>
   </blockquote>
 
-To fully leverage the power of probability distributions, we need to stand on the giants that revolutioned mathematics and physics, which requires incorporating the unity of mathematics within our statistical methodologies.
+To fully leverage the power of probability distributions, we need to stand on the giants that revolutionised mathematics and physics. This requires acquiring a deeper understanding of statistical objects, and incorporating the unity of mathematics within statistical education and methodologies.
 
 <blockquote>
-    <p> " [...] one of the most essential features of the math-
-ematical world, [...] it is virtually impossible to isolate any of the above
+    <p> " [...] one of the most essential features of the mathematical world, [...] it is virtually impossible to isolate any of the above
 parts from the others without depriving them from their essence. In that way the
 corpus of mathematics does resemble a biological entity which can only survive as
 a whole and would perish if separated into disjoint pieces." Alain Connes
