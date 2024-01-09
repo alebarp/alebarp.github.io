@@ -28,15 +28,27 @@ underscoring the perception it is not directly pertinent to the training of math
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
 Find out why [here](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
 
+The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth continuous linear functionals and so on.
+On this aspect I like the quote by André Lichnerowicz
 
-…if we compare what was called
+<blockquote>
+    <p> " [...] if we compare what was called
 ‘physics’ or ‘mathematics’ in the nineteenth century
 with today’s physics, what would surprise us would
 not be all the equations we write, but rather the
 pseudo-rational entities we make up to give them
 meaning. What has changed is the discourse, not
-the form of the equations.
+the form of the equations."
+    </p>
+  </blockquote>
 
+To fully leverage the power of probability distributions, we need to stand on the giants that revolutioned mathematics and physics, which requires incorporating the unity of mathematics within our statistical methodologies.
 
-
-
+<blockquote>
+    <p> " [...] one of the most essential features of the math-
+ematical world, [...] it is virtually impossible to isolate any of the above
+parts from the others without depriving them from their essence. In that way the
+corpus of mathematics does resemble a biological entity which can only survive as
+a whole and would perish if separated into disjoint pieces." Alain Connes
+    </p>
+  </blockquote>
