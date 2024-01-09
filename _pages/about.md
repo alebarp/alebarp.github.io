@@ -26,7 +26,7 @@ Despite the fact geometric tools are being increasingly leveraged acrosss statis
 geometry remains notably absent from the educational curriculum of most statistics departments,
 underscoring the perception it is not directly pertinent to the training of mathematical statisticians.
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
-Find out why [here](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
+Find out why [here with the bracket-measure formalism](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
 
 The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth continuous linear functionals and so on.
 On this aspect I like the quote by André Lichnerowicz
