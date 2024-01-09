@@ -19,7 +19,7 @@ Recently, my research scope has expanded to include work on geometric deep learn
 
 
 
-Geometry of statistics
+The unity of statistics
 ======
 
 Despite the fact geometric tools are being increasingly leveraged acrosss statistical methodologies,
@@ -27,6 +27,15 @@ geometry remains notably absent from the educational curriculum of most statisti
 underscoring the perception it is not directly pertinent to the training of mathematical statisticians.
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
 Find out why [here](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
+
+
+…if we compare what was called
+‘physics’ or ‘mathematics’ in the nineteenth century
+with today’s physics, what would surprise us would
+not be all the equations we write, but rather the
+pseudo-rational entities we make up to give them
+meaning. What has changed is the discourse, not
+the form of the equations.
 
 
 
