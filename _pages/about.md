@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a senior research associate at the Alan Turing Institute working on geometric statistics and deep learning as part of [Turing-Roche parthnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
+I am a senior research associate at the Alan Turing Institute, working on geometric statistics and deep learning as part of [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
 
 My academic journey includes completing the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at the University of Cambridge.
 As we enter the large data sets era, there is a growing necessity to comprehend the structure of data, encompassing aspects like reduction, missing data handling, and the integration of misspecification, uncertainty, and domain knowledge into our models. 
