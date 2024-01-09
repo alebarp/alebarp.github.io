@@ -19,7 +19,7 @@ Recently, my research scope has expanded to include work on geometric deep learn
 
 
 
-The unity of statistics
+The unity of statistics and the bracket measure-formalism
 ======
 
 Despite the fact geometric tools are being increasingly leveraged acrosss statistical methodologies,
