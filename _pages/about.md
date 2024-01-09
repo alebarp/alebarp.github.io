@@ -13,7 +13,7 @@ I am a senior research associate at the Alan Turing Institute, working on geomet
 
 My academic journey includes completing the MMathPhys course at the University of Warwick and Part III of the Mathematical Tripos at the University of Cambridge.
 As we enter the large data sets era, there is a growing necessity to comprehend the structure of data, encompassing aspects like reduction, missing data handling, and the integration of misspecification, uncertainty, and domain knowledge into our models. 
-This motivated my doctoral research in statistics at Imperial College London and Postdoc at Cambridge, more specfically on Markov Chain Monte Carlo and statistical inference which aim to sample and approximate complex distributions.
+This motivated my doctoral research in statistics at Imperial College London and Postdoc at Cambridge (see my [thesis](https://spiral.imperial.ac.uk/bitstream/10044/1/84749/1/Barp-A-A-2020-PhD-Thesis.pdf) introducing the bracket-measure formalism), more specfically on Markov Chain Monte Carlo and statistical inference which aim to sample and approximate complex distributions.
 Presently, my research scope has expanded to include work on geometric deep learning, in order to gain insights in the learning process.
 
 
