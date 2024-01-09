@@ -42,7 +42,7 @@ the form of the equations."
     </p>
   </blockquote>
 
-To fully leverage the power of probability distributions, we need stand on the shoulders of the giants that revolutionised mathematics and physics. This requires acquiring a deeper understanding of statistical objects, and incorporating the unity of mathematics within statistical education and methodologies.
+To fully leverage the power of probability distributions, we need to stand on the shoulders of the giants that revolutionised mathematics and physics. This requires acquiring a deeper understanding of statistical objects, and incorporating the unity of mathematics within statistical education and methodologies.
 
 <blockquote>
     <p> " [...] one of the most essential features of the mathematical world, [...] it is virtually impossible to isolate any of the above
