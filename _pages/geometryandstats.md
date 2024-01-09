@@ -13,7 +13,7 @@ entirely on geometric tools.
 
 Despite this, there exists profound skepticism among statisticians regarding geometry.
 In my view, this skepticism primarily stems from two reasons
-* Firstly, geometric tools in statistics often originate from mathematics and physics, intertwining statistical notions with irrelevant ones from these fields. This makes it challenging for statisticians to gain insights on these methods. For instance Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often unrelated to understanding HMC.
+* Firstly, geometric tools in statistics often originate from mathematics and physics. Consequently, they tend to intertwine statistically relevant geometric concepts with superfluous ones from physics and mathematics. This makes it challenging for statisticians to gain insights into these methods. For instance Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often unrelated to understanding HMC.
 Moreover these tools, e.g., Wasserstein gradients or Langevin processes use notions from geometric measure theory, distributional calculus, and stochastic differential equations. The foundational principles of these tools are hard to grasp for individuals without a background in geometry. For instance, the structure of SDEs, e.g., the Ito correction term, is described by second-order geometry (and cocycles of transformations). Yet, to quote Laurent Schwartz, there is no second-order calculus without tears. More precisely:
 
   <blockquote>
