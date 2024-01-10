@@ -7,9 +7,8 @@ redirect_from:
   - /resume
 ---
 
-It is exciting to witness the surge of geometric tools permeating modern statistical and machine learning methodologies, spanning from sampling and statistical inference to understanding the underlying data structures. 
-My own work, deriving minimum discrepnacie estimators with theoretical guarantees, and numerical integration/sampling algorithms, relied almost
-entirely on geometric tools.
+It is exciting to witness the surge of geometric tools permeating modern statistical and machine learning methodologies, from sampling and statistical inference to understanding the structure of data. 
+My own work, deriving minimum discrepancy estimators with theoretical guarantees, and developing numerical integration/sampling algorithms, relied almost entirely on geometric tools.
 
 Despite this, there exists profound skepticism among statisticians regarding geometry.
 In my view, this skepticism primarily stems from two reasons
