@@ -25,14 +25,14 @@ Moreover these tools, e.g., Wasserstein gradients or Langevin processes use noti
     </p>
   </blockquote>
 
-* Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually utilised in many statistical methodologies, such as reproducing kernel and "score"-based methods
+* Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods
 
 Fairness towards mathematicians 
 =======
 
-To appropriately reference and leverage mathematical knowledge, it is crucial to understand the correct mathematical formalisations of the objects used in statistical computations. For example, the very idea of constructing the log-density derivative, to utilise the distribituion's differential information, creates a divide between mathematics and statistics, since it introduces an arbitrary choice of reference "measure" and an unjustified logarithm, a practice mathematicians would rarely employ. 
+To appropriately reference and leverage mathematical knowledge, it is crucial to understand the correct mathematical formalisations of the objects used in statistical computations. For example, the very idea of constructing the log-density derivative, to utilise the distribution's differential information, creates a divide between mathematics and statistics, since it introduces an arbitrary choice of reference "measure" and an unjustified logarithm, a practice mathematicians would rarely employ. 
 
-In fact, within a single application distributions will be often be formalised with different structures. 
+In fact, within a single application distributions will often be formalised with different structures reflecting the property we are interested in. 
 For instance, when constructing measure-preserving systems for sampling/inference we will typically rely on Lie algebroids and twisted cohomology structures, in which distributions are viewed as 1-densities or twisted top-forms.
 On the other hand, when we construct bias-correction tools we often only leverage their cocycle structures; when we build discrepancies we typically should view them as continuous linear functionals on function spaces,
 while when we study ergodicity we typically use their measure-class structure, in which distributions are viewed as faithful normal weights.
