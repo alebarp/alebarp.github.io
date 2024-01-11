@@ -28,7 +28,8 @@ underscoring the perception it is not directly pertinent to the training of math
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
 Find out why [here with the bracket-measure formalism](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
 
-The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth continuous linear functionals and so on.
+The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, sigma-normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth continuous linear functionals,
+classes of Hochschild cycles, arrows in the Markov category, and so on.
 On this aspect I like the quote by André Lichnerowicz
 
 <blockquote>
