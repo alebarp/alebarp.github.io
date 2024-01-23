@@ -10,7 +10,7 @@ author_profile: true
 
 Philosophy of AI
 ======
-* I am co-organising a series of workshops on the philosophy of AI, the next meeting is on Friday 16th February, 4-5.30pm at [Alan Turing](https://www.turing.ac.uk)
+* I am co-organising a series of workshops on the philosophy of AI, the next meeting is on Friday 16th February, 4-5.30pm at the [Alan Turing Institute](https://www.turing.ac.uk)
 
 Recent previous talks
 ======
