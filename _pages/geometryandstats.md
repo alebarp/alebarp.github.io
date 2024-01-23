@@ -26,7 +26,7 @@ Moreover these tools, e.g., Wasserstein gradients or Langevin processes use noti
 
 * Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods
 
-Fairness towards mathematicians 
+Fairness towards mathematicians (putting yourself in other researcher's shoes')
 =======
 
 To appropriately reference and leverage mathematical knowledge, it is crucial to understand the correct mathematical formalisations of the objects used in statistical computations. For example, the very idea of constructing the log-density derivative, to utilise the distribution's differential information, creates a divide between mathematics and statistics, since it introduces an arbitrary choice of reference "measure" and an unjustified logarithm, a practice mathematicians would rarely employ. 
