@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Upcoming talk"
+title: "Upcoming talks"
 permalink: /talks/
 author_profile: true
 ---
 
 
 * I am delivering Oxford's seminar on February 2 at [Oxford Computational Statistics and Machine Learning group](https://csml.stats.ox.ac.uk/)
+* I am giving a talk at the [Roche Advanced Analytics Network](https://careers.roche.com/global/en/ch-raan-program) festival March 11-22
 
 Philosophy of AI
 ======
