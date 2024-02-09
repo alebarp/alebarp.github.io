@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 
-* I am delivering Oxford's seminar on February 2 at [Oxford Computational Statistics and Machine Learning group](https://csml.stats.ox.ac.uk/)
+
 * I am giving a talk at the [Roche Advanced Analytics Network](https://careers.roche.com/global/en/ch-raan-program) festival March 11-22
+* I am giving a talk at the Stein’s Method and Networks workshop at Oxford June 20-21
+
 
 Philosophy of AI
 ======
@@ -15,7 +17,8 @@ Philosophy of AI
 
 Recent previous talks
 ======
-
+* 2nd February 2024 - delivered Oxford's seminar on at [Oxford Computational Statistics and Machine Learning group](https://csml.stats.ox.ac.uk/)
+  
 * 1st December 2023 - talk at workshop [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/#eventoverview)
   
 * 17th-19th October 2023 - talk at workshop [Next-Generational 
