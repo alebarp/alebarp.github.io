@@ -31,19 +31,8 @@ Find out why [here with the bracket-measure formalism](https://drive.google.com/
 The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, sigma-normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth deRham currents,
 classes of Hochschild cycles, berezinian volumes, arrows in the Markov category, and so on.
 Each of these mathematical formalisation incorporates a new understanding of p(x)dx. For instance tensor 1-densities formalise the probability rate of change which then allows us to correctly talk about the differential information of p(x)dx (which is not its log-density derivative). Without differential geometry we are forced to split p(x) and dx, so that we can differentiate p(x), which is noncanonical and thus isolates statistics from the rest of mathematics. 
-On the other hand, von Neumann algebras shed light on the spaces on which probability measures are defined (which are neither measurable nor measure spaces, but something in between: measure class spaces), and their canonical description via C* algebras provides a first acquaintance with the duality between geometric spaces and algebras of coordinates.
-Related to this aspect I like the quote by André Lichnerowicz
+On the other hand, von Neumann algebras shed light on the spaces on which probability measures are defined (which are neither measurable nor measure spaces, but something in between: measure class spaces), and their canonical description via C* algebras provides a first acquaintance with the duality between geometric spaces and algebras of ``coordinates" (i.e., functions).
 
-<blockquote>
-    <p> " [...] if we compare what was called
-‘physics’ or ‘mathematics’ in the nineteenth century
-with today’s physics, what would surprise us would
-not be all the equations we write, but rather the
-pseudo-rational entities we make up to give them
-meaning. What has changed is the discourse, not
-the form of the equations."
-    </p>
-  </blockquote>
 To fully leverage the structure of probability distributions in statistical models, and facilitate the transfer of specialised geometric techniques across statistical applications, we need to stand on the shoulders of the giants that revolutionised mathematics and physics. This, in my opinion, requires acquiring a deeper understanding of statistical objects that goes (very far) beyond  measure/probability theory, as well as incorporating the unity of mathematics within statistical education and methodologies, by constructing a geometric backbone for statistics via the theory of smooth distributions.
 
 <blockquote>
@@ -53,3 +42,5 @@ corpus of mathematics does resemble a biological entity which can only survive a
 a whole and would perish if separated into disjoint pieces." Alain Connes
     </p>
   </blockquote>
+
+ 
