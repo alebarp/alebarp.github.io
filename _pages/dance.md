@@ -16,4 +16,4 @@ London is one of the best places to dance, and dancing is one of the best ways t
 My favourite ones are afrohouse and kuduro, both from Angola and Portugal. 
 Many people have heard of kuduro through the song "Danza kuduro", but that has little to do with genuine kuduro, which looks like [this](https://www.youtube.com/shorts/jSwXVVQ1AVg).
 You can read about the very interesting history of kuduro [here](https://www.jstor.org/stable/26410069).
-To see what afrohouse looks like, check [Septzilla](https://www.youtube.com/watch?v=bH5k5cNV88Q), who founded the Afrohouselab.
+To see what afrohouse looks like, check [Septzilla](https://www.youtube.com/watch?v=bH5k5cNV88Q), who founded the Afrohouselab, or [Will](https://www.instagram.com/_will2k/reel/C1KJQQ9teUe/?hl=en) who creates amazing fusions with other styles.
