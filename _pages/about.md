@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in the department of [Statistical Science](https://www.ucl.ac.uk/statistics/department-statistical-science) at UCL.
+I am a Lecturer  (Assistant Professor) in the department of [Statistical Science](https://www.ucl.ac.uk/statistics/department-statistical-science) at UCL, where I teach the Statistical Machine Learning course, and a member of the 
+[Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group. 
 
 My academic journey includes completing the MMathPhys course at the University of Warwick (which I highly recommend - Warwic Uni is the ideal prep to making the most of [London's opportunities](https://alebarp.github.io/dance/)), and then the oldest mathematics examination: Part III of the Mathematical Tripos at the University of Cambridge (Downing College).
 As we enter the large data sets era, there is a growing necessity to comprehend the structure of data, encompassing aspects like reduction, missing data handling, and the integration of misspecification, uncertainty, and domain knowledge into our models. 
