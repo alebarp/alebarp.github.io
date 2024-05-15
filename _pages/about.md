@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer  (Assistant Professor) in the [Faculty of Mathematical & Physical Sciences](https://www.ucl.ac.uk/mathematical-physical-sciences/mathematical-physical-sciences-0) at UCL, and a member of the 
-[Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group. I teach the Statistical Machine Learning course.
+I am a Lecturer  (Assistant Professor) in the [Faculty of Mathematical & Physical Sciences](https://www.ucl.ac.uk/mathematical-physical-sciences/mathematical-physical-sciences-0) at UCL, where I co-lead the 
+[Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, and teach the [Statistical Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/statistical-machine-learning-STAT0042) course.
 
 My academic journey includes completing the MMathPhys course at the University of Warwick (which I highly recommend - Warwick Uni is the ideal prep to making the most of [London's opportunities](https://alebarp.github.io/dance/)), and then the oldest mathematics examination: [Part III of the Mathematical Tripos](https://www.dpmms.cam.ac.uk/~twk/PartIII.pdf) at the University of Cambridge (Downing College).
 As we enter the large data sets era, there is a growing necessity to extend the boundaries of mathematical physics, both in terms of tools and mindset, beyond their traditional confines, in order to develop a foundational understanding of data sciences.
