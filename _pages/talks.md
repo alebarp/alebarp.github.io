@@ -11,7 +11,7 @@ author_profile: true
 
 Theory and Methods Challenge Fortnights
 ======
-* I won the call for the [Theory and Methods Challenge Fortnights](https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights), and will organise a two-week intensive challenge on the geometry of data representations
+* I won the call for the [Theory and Methods Challenge Fortnights](https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights), which provides funding to organise a two-week intensive challenge on the geometry of data representations
 
 Topology and Geometry for Data interest group
 ======
@@ -25,9 +25,9 @@ Philosophy of AI seminars
 
 Recent previous talks
 ======
-* 30th May 2024 - delivered the statistics seminar at UCL
+* 30th May 2024 - delivered the [statistical science](https://www.ucl.ac.uk/statistics/seminar) seminar at UCL
 
-* 28th May 2024 - talk for the knowledge-share series with Roche 
+* 28th May 2024 - talk for the knowledge-share series with [Roche](https://www.roche.com/about) 
 
 * 11th March 2024 - talk at the [Roche Advanced Analytics Network](https://careers.roche.com/global/en/ch-raan-program) festival
    
