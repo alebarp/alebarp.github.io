@@ -7,12 +7,13 @@ redirect_from:
   - /resume
 ---
 
-It is exciting to witness the surge of geometric tools permeating modern statistical and machine learning methodologies, from sampling and statistical inference to understanding the structure of data. 
-My own work, deriving minimum discrepancy estimators with theoretical guarantees, and developing numerical integration/sampling algorithms, relied almost entirely on geometric tools.
+It is exciting to witness the surge of geometric tools permeating modern statistical and machine learning methodologies, from sampling and model inference to understanding the structure of data. 
+My own work, deriving minimum discrepancy estimators with theoretical guarantees, and developing numerical integration/sampling algorithms, relied almost entirely on geometric ideas.
 
 Despite this, there exists a profound skepticism among statisticians regarding geometry.
 It seems this skepticism primarily stems from two reasons:
-* Firstly, geometric tools in statistics often originate from mathematics and physics. Consequently, they tend to intertwine statistically relevant geometric concepts with superfluous ones from physics and mathematics. This makes it challenging for statisticians to gain insights into these methods. For instance Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often unrelated to understanding HMC.
+* Firstly, geometric tools in statistics often originate from mathematics and physics. Consequently, they tend to intertwine statistically relevant geometric concepts with superfluous ones from mathematical physics. This makes it challenging for statisticians to gain insights into these methods. For instance, Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often not directly pertinent.
+<!--
 Moreover these tools, e.g., Wasserstein gradients or Langevin processes use notions from geometric measure theory, distributional calculus, and stochastic differential equations. The foundational principles of these tools are hard to grasp for individuals without a background in geometry. For instance, the structure of SDEs, e.g., the Ito correction term, is described by second-order geometry (and cocycles of transformations). Yet, to quote Laurent Schwartz, there is no second-order calculus without tears. More precisely:
 
   <blockquote>
@@ -23,7 +24,7 @@ Moreover these tools, e.g., Wasserstein gradients or Langevin processes use noti
             déjà des générations."
     </p>
   </blockquote>
-
+-->
 * Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods
 
 
@@ -32,11 +33,10 @@ Moreover these tools, e.g., Wasserstein gradients or Langevin processes use noti
 The unity of statistics and the bracket measure-formalism
 ======
 
-Despite the fact geometric tools are being increasingly leveraged acrosss statistical methodologies,
+Despite the fact geometric tools are being increasingly leveraged across statistical methodologies,
 geometry remains notably absent from the curriculum of most statistics departments,
 underscoring the perception it is not directly pertinent to the training of mathematical statisticians.
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
-Find out why [here with the bracket-measure formalism](https://drive.google.com/file/d/1OSgegqVHNjGN3XQElhmzm-D4UecBHveu/view?usp=sharing)!
 
 The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, sigma-normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth deRham currents,
 classes of Hochschild cycles, berezinian volumes, arrows in the Markov category, and so on.
