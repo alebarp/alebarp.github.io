@@ -13,17 +13,6 @@ My own work, deriving minimum discrepancy estimators with theoretical guarantees
 Despite this, there exists a profound skepticism among statisticians regarding geometry.
 It seems this skepticism primarily stems from two reasons:
 * Firstly, geometric tools in statistics often originate from mathematics and physics. Consequently, they tend to intertwine statistically relevant geometric concepts with superfluous ones from mathematical physics. This makes it challenging for statisticians to gain insights into these methods. For instance, Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often not directly pertinent.
-<!-- Moreover these tools, e.g., Wasserstein gradients or Langevin processes use notions from geometric measure theory, distributional calculus, and stochastic differential equations. The foundational principles of these tools are hard to grasp for individuals without a background in geometry. For instance, the structure of SDEs, e.g., the Ito correction term, is described by second-order geometry (and cocycles of transformations). Yet, to quote Laurent Schwartz, there is no second-order calculus without tears. More precisely:
-
-  <blockquote>
-    <p> "Meyer a intitulé son article "Géométrie stochastique sans larmes";
-            je ne suis pas sûr qu’il n’y ait pas de larmes, mais suis à peu près sûr qu’il
-            y en a dans le mien. Les larmes paraissent un peu inévitablement liées au calcul
-            du second ordre ; on ne pleure pas au premier ordre, on pleure au second, depuis
-            déjà des générations."
-    </p>
-  </blockquote>
--->
 * Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods
 
 
@@ -66,6 +55,19 @@ while when we study ergodicity we typically use their measure-class structure, i
 
 Understanding the foundations of distributions is vital to create a genuinely interdisciplinary environment that amalgamates insights from statisticians, physicists, and mathematicians. It is the reason why for the last three years I have been working on the "Unravelling a Geometric Conspiracy" article, currently in progress, see 
 <a href="https://alebarp.github.io/">The unity of statistics</a>.
+
+
+ Moreover these tools, e.g., Wasserstein gradients or Langevin processes use notions from geometric measure theory, distributional calculus, and stochastic differential equations. The foundational principles of these tools are hard to grasp for individuals without a background in geometry. For instance, the structure of SDEs, e.g., the Ito correction term, is described by second-order geometry (and cocycles of transformations). Yet, to quote Laurent Schwartz, there is no second-order calculus without tears. More precisely:
+
+  <blockquote>
+    <p> "Meyer a intitulé son article "Géométrie stochastique sans larmes";
+            je ne suis pas sûr qu’il n’y ait pas de larmes, mais suis à peu près sûr qu’il
+            y en a dans le mien. Les larmes paraissent un peu inévitablement liées au calcul
+            du second ordre ; on ne pleure pas au premier ordre, on pleure au second, depuis
+            déjà des générations."
+    </p>
+  </blockquote>
+  
 -->
   
 
