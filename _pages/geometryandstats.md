@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The geometry of statistics"
+title: "Geometry Vs statistics"
 permalink: /geometryandstats/
 author_profile: true
 redirect_from:
@@ -13,12 +13,12 @@ My own work, deriving minimum discrepancy estimators with theoretical guarantees
 Despite this, there exists a profound skepticism among statisticians regarding geometry.
 It seems this skepticism primarily stems from two reasons:
 * Firstly, geometric tools in statistics often originate from mathematics and physics. Consequently, they tend to intertwine statistically relevant geometric concepts with superfluous ones from mathematical physics. This makes it challenging for statisticians to gain insights into these methods. For instance, Hamiltonian Monte Carlo is often explained through abstract concepts derived from Hamiltonian mechanics and symplectic structures, which are often not directly pertinent.
-* Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods
+* Secondly, while the central objects of physics are inherently geometric, Statistics Departments often teach us the central objects of statistics, distributions, are formalised as probability measures. However, this viewpoint does not align with how distributions are actually employed in many statistical methodologies, such as reproducing kernel and "score"-based methods.
 
 
 
 
-The unity of statistics and the bracket measure-formalism
+The unity of statistics 
 ======
 
 Despite the fact geometric tools are being increasingly leveraged across statistical methodologies,
@@ -27,8 +27,8 @@ underscoring the perception it is not directly pertinent to the training of math
 It turns out that as soon as we use appropriate formalisations of probability distributions, the gap between statistics and geometry disappears. 
 
 The point is that the way mathematicians think of distributions has been continuously evolving. Continuous probability densities, p(x)dx, became absolutely continuous measures, sigma-normal weights, tensor 1-densities, twisted/pseudo differential forms, smooth deRham currents,
-classes of Hochschild cycles, berezinian volumes, arrows in the Markov category, and so on.
-Each of these mathematical formalisation incorporates a new understanding of p(x)dx. For instance tensor 1-densities formalise the probability rate of change which then allows us to correctly talk about the differential information of p(x)dx (which is not its log-density derivative). Without differential geometry we are forced to split p(x) and dx, so that we can differentiate p(x), which is noncanonical and thus isolates statistics from the rest of mathematics. 
+classes of Hochschild cycles, berezinian volumes, arrows in the Markov category, Zeta residues, and so on.
+Each of these mathematical formalisation incorporates a new understanding of p(x)dx. For instance, tensor 1-densities formalise the probability rate of change which then allows us to correctly talk about the differential information of p(x)dx (which is not its log-density derivative). Without differential geometry we are forced to split p(x) and dx, so that we can differentiate p(x), which is noncanonical and thus isolates statistics from the rest of mathematics. 
 On the other hand, von Neumann algebras shed light on the spaces on which probability measures are defined (which are neither measurable nor measure spaces, but something in between: measure class spaces), and their canonical description via C* algebras provides a first acquaintance with the duality between geometric spaces and algebras of ``coordinates" (i.e., functions).
 
 To fully leverage the structure of probability distributions in statistical models, and facilitate the transfer of specialised geometric techniques across statistical applications, we need to stand on the shoulders of the giants that revolutionised mathematics and physics. This, in my opinion, requires acquiring a deeper understanding of statistical objects that goes (very far) beyond  measure/probability theory, as well as incorporating the unity of mathematics within statistical education and methodologies, by constructing a geometric backbone for statistics via the theory of smooth distributions.
