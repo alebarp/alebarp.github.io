@@ -19,7 +19,6 @@ Topology and Geometry for Data interest group
 * I am a member of the [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) at UCL
 
 
-
   
 
 Philosophy of AI seminars
@@ -31,6 +30,8 @@ Some previous talks
 * 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
 
 * 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/)
+
+* 12th May 2025 - gave a talk at the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group at UCL, on the physics of vacuum cleaners, musical instruments, and beauty
 
 * 21st November 2024 - gave a talk with [Arthi Nachiappan](https://www.thetimes.com/profile/arthi-nachiappan) (The Times, Sky News) on "Biases, perception, and societal impact of AI" at UCL
 
