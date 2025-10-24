@@ -26,7 +26,7 @@ Philosophy of AI seminars
 ======
 * I am co-organising a series of workshops on the philosophy of AI at Alan Turing, exploring aspects such as the impact of AI on the art sector and the various notions of intelligence across scientific fields
 
-Some ptrevious talks
+Some previous talks
 ======
 * 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
 
