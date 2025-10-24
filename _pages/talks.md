@@ -16,7 +16,9 @@ Theory and Methods Challenge Fortnights
 Topology and Geometry for Data interest group
 ======
 * I co-organise the [Topology and Geometry for Data](https://www.turing.ac.uk/research/interest-groups/topology-and-geometry-data) interest group at Alan Turing
-* 
+* I am a member of the [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) at UCL
+
+
 
   
 
@@ -28,9 +30,9 @@ Some ptrevious talks
 ======
 * 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
 
-* 23rd September 2025 - organised and gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute
+* 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/)
 
-* 21st November 2024 - gave a talk with [Arthi Nachiappan](https://www.thetimes.com/profile/arthi-nachiappan) on "Biases, perception, and societal impact of AI" at UCL
+* 21st November 2024 - gave a talk with [Arthi Nachiappan](https://www.thetimes.com/profile/arthi-nachiappan) (The Times, Sky News) on "Biases, perception, and societal impact of AI" at UCL
 
 * 20th June 2024 - talk at workshop [Workshop on Stein's Method and Networks](https://www.stats.ox.ac.uk/events/workshop-steins-method-and-network)
 
