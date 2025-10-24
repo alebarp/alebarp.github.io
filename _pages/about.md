@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My background"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,10 @@ redirect_from:
 
 I'm a Lecturer  (Assistant Professor) in the [Faculty of Mathematical & Physical Sciences](https://www.ucl.ac.uk/mathematical-physical-sciences/mathematical-physical-sciences-0) at UCL, where I co-lead the 
 [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, teach the [Statistical Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/statistical-machine-learning-STAT0042) course, and act as the Departmental Enterprise Co-Ordinator. I am also a member of the [ELLIS European Laboratory for Learning and Intelligent Systems](https://ellis.eu/), as well as UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) and [ELLIS unit](https://ucl-ellis.github.io/).
+
+
+Background
+======
 
 My academic journey began with the MMathPhys course at the University of Warwick (which I highly recommend - [Warwick Uni](https://www.warwicksu.com/) has amazing societies and is the ideal prep to making the most of [London's opportunities](https://alebarp.github.io/dance/)), and then [Part III of the Mathematical Tripos](https://www.dpmms.cam.ac.uk/~twk/PartIII.pdf) (the oldest mathematics examination) at the University of Cambridge (Downing College).
 
