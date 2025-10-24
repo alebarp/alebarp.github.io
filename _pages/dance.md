@@ -13,7 +13,7 @@ I recommend joining [Sportas](https://www.sportas.co.uk/), [Rueda Libre](https:/
 
 
 
-My favourite activity is dancing, including [azonto/afrobeat](https://www.instagram.com/homebrosuk/?hl=en), [samba](https://www.paraisosamba.co.uk/), [afroheels](https://www.instagram.com/afroinheels/?hl=en), [capoeira](https://senzala-london.co.uk/), kizomba, [afro-bollywood](https://www.instagram.com/afrod3si/?hl=en), salsa, [rueda](https://ruedalibre.co.uk), [bhangra](https://www.instagram.com/jasaulakhbhangra/), [modern Jazz](https://www.instagram.com/diletta_cianci/?hl=en), [voguing](https://www.instagram.com/thegetbusy/) and [amapiano](https://www.instagram.com/takkies7/?hl=en).
+My favourite activity is dancing, including [azonto/afrobeat](https://www.instagram.com/homebrosuk/?hl=en), [samba](https://www.paraisosamba.co.uk/), [afroheels](https://www.instagram.com/afroinheels/?hl=en), [krump](https://www.instagram.com/wearegsb_/), [capoeira](https://senzala-london.co.uk/), [kizomba](https://www.instagram.com/chocolatekizomba/?hl=en-gb), [afro-bollywood](https://www.instagram.com/afrod3si/?hl=en), salsa, [rueda](https://ruedalibre.co.uk), [bhangra](https://www.instagram.com/jasaulakhbhangra/), [modern Jazz](https://www.instagram.com/diletta_cianci/?hl=en), [voguing](https://www.instagram.com/thegetbusy/) and [amapiano](https://www.instagram.com/takkies7/?hl=en).
 London is one of the best places to dance, and dancing is one of the best ways to explore cultures.
 My favourite ones are afrohouse and kuduro, both from Angola and Portugal. 
 Many people have heard of kuduro through the song "Danza kuduro", but that has little to do with genuine kuduro, which looks like [this](https://www.instagram.com/p/ChvIUNFDJpm/?hl=en).
