@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* I am giving a talk at the Stein’s Method and Networks workshop at Oxford, June 20
+* I am giving a talk and participating to the workshop on [“Computational methods for probability distributions on manifolds”](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/), May 11-13 2026 in Paris
 
 
 Theory and Methods Challenge Fortnights
@@ -16,6 +16,7 @@ Theory and Methods Challenge Fortnights
 Topology and Geometry for Data interest group
 ======
 * I co-organise the [Topology and Geometry for Data](https://www.turing.ac.uk/research/interest-groups/topology-and-geometry-data) interest group at Alan Turing
+* 
 
   
 
@@ -23,8 +24,16 @@ Philosophy of AI seminars
 ======
 * I am co-organising a series of workshops on the philosophy of AI at Alan Turing, exploring aspects such as the impact of AI on the art sector and the various notions of intelligence across scientific fields
 
-Recent previous talks
+Some ptrevious talks
 ======
+* 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
+
+* 23rd September 2025 - organised and gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute
+
+* 21st November 2024 - gave a talk with [Arthi Nachiappan](https://www.thetimes.com/profile/arthi-nachiappan) on "Biases, perception, and societal impact of AI" at UCL
+
+* 20th June 2024 - talk at workshop [Workshop on Stein's Method and Networks](https://www.stats.ox.ac.uk/events/workshop-steins-method-and-network)
+
 * 30th May 2024 - delivered the [statistical science](https://www.ucl.ac.uk/statistics/seminar) seminar at UCL
 
 * 28th May 2024 - talk for the knowledge-share series with [Roche](https://www.roche.com/about) 
