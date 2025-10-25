@@ -31,13 +31,13 @@ Some previous talks
 
 * 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/)
 
-* 12th May 2025 - gave a talk at the [Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) group at UCL, on the physics of vacuum cleaners, musical instruments, and beauty
+* 12th May 2025 - gave a talk at the [FSML](https://fsml-ucl.github.io/) group at UCL, on the mysterious physics of vacuum cleaners, musical instruments, and beauty
 
 * 21st November 2024 - gave a talk with [Arthi Nachiappan](https://www.thetimes.com/profile/arthi-nachiappan) (The Times, Sky News) on "Biases, perception, and societal impact of AI" at UCL
 
 * 20th June 2024 - talk at workshop [Workshop on Stein's Method and Networks](https://www.stats.ox.ac.uk/events/workshop-steins-method-and-network)
 
-* 30th May 2024 - delivered the [statistical science](https://www.ucl.ac.uk/statistics/seminar) seminar at UCL
+* 30th May 2024 - delivered the [Statistical science](https://www.ucl.ac.uk/statistics/seminar) seminar at UCL
 
 * 28th May 2024 - talk for the knowledge-share series with [Roche](https://www.roche.com/about) 
 
