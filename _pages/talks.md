@@ -51,6 +51,6 @@ Some previous talks
 Kernel Methods](https://sites.google.com/view/ngkm-2023/home)
 
 * 27th-28th June 2023 - talk the workshop [Distance-based methods
-in Machine Learninghttps](https://dbmml.github.io/)
+in Machine Learning](https://dbmml.github.io/)
 
 
