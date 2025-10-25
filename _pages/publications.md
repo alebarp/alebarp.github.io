@@ -12,10 +12,12 @@ author_profile: true
 Supervision
 ======
 
-I currently supervise a 1st year PhD student, [Ahab Isaac](https://fsml-ucl.github.io/authors/ahab/), in collaboration with Dr Christopher Banerji (https://www.kcl.ac.uk/people/christopher-banerji), and cosupervise [Yann McLatchie](https://yannmclatchie.github.io/) with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/).
+I currently supervise a PhD student, [Ahab Isaac](https://fsml-ucl.github.io/authors/ahab/), in collaboration with [Christopher Banerji](https://www.kcl.ac.uk/people/christopher-banerji), and cosupervise [Yann McLatchie](https://yannmclatchie.github.io/) with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/).
 
 I also regularly supervise BSc and MSc students at UCL.
 
-Concerning **students interested in applying to do a PhD** with me and the [FSML](https://fsml-ucl.github.io/) research group, 
-I do welcome applications and am particularly interested in students with (i) solid mathematical foundations, (ii) some programming skills, (iii) a deep interest in computational statistics and machine learning, and, ideally, (iv) have had previous research experience.
+Concerning **students interested in applying to do a PhD** with me, within the [FSML](https://fsml-ucl.github.io/) research group, 
+I am interested in students with (i) solid mathematical foundations and programming skills, (ii) an interest in computational statistics and machine learning problems, and, (iii) ideally have had (some kind of) previous research experience.
+If that sounds like you, I do welcome applications!
+
 There are several routes to secure funding to do a PhD at UCL, and I recommend taking a look at this very useful [Funding for PhD applicants](https://fxbriol.github.io/supervision/funding/) by Professor François-Xavier Briol.
