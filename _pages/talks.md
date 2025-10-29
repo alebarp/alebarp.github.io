@@ -29,7 +29,7 @@ Some previous talks
 ======
 * 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
 
-* 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/)
+* 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) and supported via a LMS Celebrating New Appointments grant.
 
 * 12th May 2025 - gave a talk at the [FSML](https://fsml-ucl.github.io/) group at UCL, on the mysterious physics of vacuum cleaners, musical instruments, and beauty
 
