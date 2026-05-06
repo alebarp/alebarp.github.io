@@ -12,7 +12,7 @@ author_profile: true
 Supervision
 ======
 
-I currently supervise two PhD students: [Can Rager](https://scholar.google.com/citations?user=dzbnS2UAAAAJ&hl=en), and  [Ahab Isaac](https://fsml-ucl.github.io/authors/ahab/), in collaboration with [Christopher Banerji](https://www.kcl.ac.uk/people/christopher-banerji), I cosupervise [Yann McLatchie](https://yannmclatchie.github.io/) with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), and [Yang Yiming](https://scholar.google.com/citations?user=4W_cbO0AAAAJ&hl=en) with Serge Guillas. 
+I currently supervise two PhD students: [Can Rager](https://scholar.google.com/citations?user=dzbnS2UAAAAJ&hl=en), and  [Ahab Isaac](https://fsml-ucl.github.io/authors/ahab/), in collaboration with [Christopher Banerji](https://www.kcl.ac.uk/people/christopher-banerji), I cosupervise [Yann McLatchie](https://yannmclatchie.github.io/) with [Jeremias Knoblauch](https://jeremiasknoblauch.github.io/), and [Yang Yiming](https://scholar.google.com/citations?user=4W_cbO0AAAAJ&hl=en) with [Serge Guillas](https://profiles.ucl.ac.uk/3850-serge-guillas). 
 
 I also regularly supervise BSc and MSc students at UCL.
 
