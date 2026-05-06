@@ -27,6 +27,12 @@ Philosophy of AI seminars
 
 Some previous talks
 ======
+* 1st June 2026 - participating in the [Stein's Method meets Statistical Learning](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/) workshop in Banff International Research Station
+
+* 11th May 2026 - talk at workshop on [Computational methods for probability distributions on manifolds](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/) in Paris
+
+* 27th April 2026 - gave a talk at the [IMSS Annual Lecture UCL200](https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/apr/imss-annual-lecture-ucl200) 
+
 * 23rd October 2025 - delivered the [Statistical Sciences Research Institute](https://www.southampton.ac.uk/research/institutes-centres/statistical-sciences-research-institute-s3ri) seminar at Southampton
 
 * 23rd September 2025 - gave a talk at the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop at the Alan Turing Institute. The workshop was organised with the UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) and supported via a LMS Celebrating New Appointments grant.
