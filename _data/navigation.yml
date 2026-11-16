@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications and Supervision"
-    url: /publications/
+ # - title: "Publications and Supervision"
+  #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+   # url: /talks/    
 
-  - title: "Geometry and Statistics"
-    url: /geometryandstats/    
+ # - title: "Geometry and Statistics"
+  #  url: /geometryandstats/    
     
-  - title: "Dance and London"
-    url: /dance/
+  #- title: "Dance and London"
+   # url: /dance/
 
   - title: "Workshop"
     url: /workshop/
