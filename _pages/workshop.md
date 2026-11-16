@@ -16,10 +16,10 @@ As AI becomes embedded across industry and society, ensuring that these systems 
 
 ## Speakers
 
-- **Chris Banerji**, King’s College London. 
-- **Callum McDougall**, Google DeepMind. 
-- **Nandi Schoots**, University of Oxford. 
-- **Patrick Leask**, Durham University.
+- **[Chris Banerji](https://www.kcl.ac.uk/people/christopher-banerji)**, King’s College London. 
+- **[Callum McDougall](https://www.perfectlynormal.co.uk/)**, Google DeepMind. 
+- **[Nandi Schoots](https://nandischoots.com/)**, University of Oxford. 
+- **[Patrick Leask](https://scholar.google.com/citations?user=KRHo4psAAAAJ&hl=en)**, Durham University.
 
 ## Register
 
