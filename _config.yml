@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alessandro Barp"
-  avatar           : "Alegrad.jpg"
+  #avatar           : "Alegrad.jpg"
   bio              : "Assistant Professor at UCL"
   location         : "University College London"
   employer         :
