@@ -3,6 +3,7 @@ layout: archive
 title: "Geometry Vs statistics"
 permalink: /geometryandstats/
 author_profile: true
+published: false
 redirect_from:
   - /resume
 ---
