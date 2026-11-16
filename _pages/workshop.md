@@ -23,7 +23,7 @@ As AI becomes embedded across industry and society, ensuring that these systems 
 
 ## Register
 
-[Register here](REGISTRATION_LINK){: .btn .btn--primary}
+[Register here](https://luma.com/nrgjfd4x?tk=ApZAdC){: .btn .btn--primary}
 
 
 ## Acknowledgements
