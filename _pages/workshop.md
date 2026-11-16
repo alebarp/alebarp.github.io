@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-**Friday 27 November 2026, 13:00–17:00**
+**Friday 27 November 2026, 13:00–17:00, at UCL**
 
-UCL School of Pharmacy, Room B42, 29–39 Brunswick Square, London WC1N 1AX
+School of Pharmacy, Room B42, 29–39 Brunswick Square, London WC1N 1AX
 
 
 ## About the workshop
