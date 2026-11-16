@@ -1,44 +1,28 @@
 ---
 layout: archive
-title: "Human-in-the-Loop AI with Geometric Tools"
+title: "Human–AI Alignment: Geometry and Beyond"
 permalink: /workshop/
 author_profile: true
 ---
 
-A one-day workshop at [VENUE], [CITY], on [DATE]. Free to attend, **40 places**.
+**Friday 27 November 2026, 13:00–17:00**
+UCL School of Pharmacy, Room B42, 29–39 Brunswick Square, London WC1N 1AX
 
-[Apply to attend](LUMA_LINK){: .btn .btn--primary}
+[Register here](REGISTRATION_LINK){: .btn .btn--primary}
 
-Applications close on [DEADLINE]. We will confirm places by [DECISION DATE], and there is a waitlist.
 
-## About
+## About the workshop
 
-[2-3 sentences: why geometry, interpretability and human-in-the-loop AI belong together. Cover mechanistic interpretability, concept bottleneck models and AI in health.]
+As AI becomes embedded across industry and society, ensuring that these systems are aligned with human goals has become essential. This afternoon workshop at UCL brings together researchers approaching the problem from different directions, with talks ranging from aligning human and machine conceptual reasoning through information geometry, to post-training alignment & model forensics.
 
 ## Speakers
 
-- **[Name]**, [Institution]: [talk title]
-- **[Name]**, [Institution]: [talk title]
-- **[Name]**, [Institution]: [talk title]
-- **[Name]**, [Institution]: [talk title]
-- **[Name]**, [Institution]: [talk title]
+- **Chris Banerji**, King’s College London. 
+- **Callum McDougall**, Google DeepMind. 
+- **Nandi Schoots**, University of Oxford. 
+- **Patrick Leask**, Durham University. 
 
-## Programme
 
-| Time | Session |
-|------|---------|
-| 09:30 | Registration and coffee |
-| 10:00 | Welcome |
-| 10:15 | [Talk 1] |
-| ... | ... |
+## Acknowledgements
 
-## Practical information
-
-- **Venue:** [room, address, accessibility details]
-- **Cost:** free; [lunch/refreshments details]
-- **Registration:** by application via the link above, to keep the room balanced across career stages. We collect only the information needed to run the event.
-- **Contact:** [email]
-
-## Organisers
-
-[Names and affiliations]
+This workshop is supported by the INI-HIMR research network.
