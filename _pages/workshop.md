@@ -14,6 +14,9 @@ The workshop will be **in-person** at the School of Pharmacy, Room B42, 29–39 
 
 As AI becomes embedded across industry and society, ensuring that these systems are aligned with human goals has become essential. This afternoon workshop at UCL brings together researchers approaching the problem from different directions, with talks ranging from aligning human and machine conceptual reasoning through information geometry, to post-training alignment & model forensics.
 
+Coffee, and lunch will be provided.
+
+
 ## Confirmed Speakers
 
 - **[Chris Banerji](https://www.kcl.ac.uk/people/christopher-banerji)**, King’s College London. 
@@ -29,3 +32,6 @@ As AI becomes embedded across industry and society, ensuring that these systems 
 ## Acknowledgements
 
 This workshop is supported by the INI-HIMR research network.
+
+<img width="2753" height="380" alt="Ellis_logo" src="https://github.com/user-attachments/assets/4e05e595-4249-45a1-a4e4-0c48f4daf194" />
+
