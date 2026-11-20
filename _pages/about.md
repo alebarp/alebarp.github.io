@@ -1,6 +1,6 @@
 ---
 permalink: /about_me/
-title: "Workshop Human–AI Alignment: Geometry and Beyond"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
