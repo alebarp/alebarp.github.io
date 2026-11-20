@@ -13,17 +13,16 @@ Theory and Methods Challenge Fortnights
 ======
 * I won the call for the [Theory and Methods Challenge Fortnights](https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights), which provides funding to organise a two-week intensive challenge on the geometry of data representations
 
-Topology and Geometry for Data interest group
+Workshops 
 ======
-* I co-organise the [Topology and Geometry for Data](https://www.turing.ac.uk/research/interest-groups/topology-and-geometry-data) interest group at Alan Turing
-* I am a member of the [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) at UCL
+
+* I co-organise with Chris Banerji monthly workshops on interpretable deep learning (usually at the Alan Turing Institute)
+* I organise the FSML weekly seminar at UCL
+   
+Previously, I also co-organised the [Topology and Geometry for Data interest group](https://www.turing.ac.uk/research/interest-groups/topology-and-geometry-data),
+and the **Philosophy of AI** seminars (a series of workshops on the philosophy of AI, exploring aspects such as the impact of AI on the art sector and the various notions of intelligence across scientific fields) at the Alan Turing Institute.
 
 
-  
-
-Philosophy of AI seminars
-======
-* I am co-organising a series of workshops on the philosophy of AI at Alan Turing, exploring aspects such as the impact of AI on the art sector and the various notions of intelligence across scientific fields
 
 Some previous talks
 ======
