@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* 2-4th December 2026, I am giving a talk and participating to the workshop on [“Stein’s method and its statistical applications”](https://sites.google.com/essec.edu/steins-method-and-applications/programme?authuser=0),at ESSEC Business School, Cergy
+* 2-4th December 2026, I am giving a talk and participating to the workshop [“Stein’s method and its statistical applications”](https://sites.google.com/essec.edu/steins-method-and-applications/programme?authuser=0), at ESSEC Business School, Cergy
 
 
 Theory and Methods Challenge Fortnights
