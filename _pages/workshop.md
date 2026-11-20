@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Human–AI Alignment: Geometry and Beyond"
+title: "Workshop Human–AI Alignment: Geometry and Beyond"
 permalink: /
 author_profile: true
 ---
@@ -14,7 +14,7 @@ The workshop will be **in-person** at the School of Pharmacy, Room B42, 29–39 
 
 As AI becomes embedded across industry and society, ensuring that these systems are aligned with human goals has become essential. This afternoon workshop at UCL brings together researchers approaching the problem from different directions, with talks ranging from aligning human and machine conceptual reasoning through information geometry, to post-training alignment & model forensics.
 
-Coffee, and lunch will be provided.
+Coffee and lunch will be provided.
 
 
 ## Confirmed Speakers
