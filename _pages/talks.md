@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* I am giving a talk and participating to the workshop on [“Computational methods for probability distributions on manifolds”](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/), May 11-13 2026 in Paris
+* 2-4th December 2026, I am giving a talk and participating to the workshop on [“Stein’s method and its statistical applications”](https://sites.google.com/essec.edu/steins-method-and-applications/programme?authuser=0),at ESSEC Business School, Cergy
 
 
 Theory and Methods Challenge Fortnights
@@ -27,6 +27,8 @@ Philosophy of AI seminars
 
 Some previous talks
 ======
+* 17th September 2026 - delivered the [CERMICS (École nationale des ponts et chaussées)](https://cermics-lab.enpc.fr/) seminar
+
 * 1st June 2026 - participating in the [Stein's Method meets Statistical Learning](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/) workshop in Banff International Research Station
 
 * 11th May 2026 - talk at workshop on [Computational methods for probability distributions on manifolds](https://cermics-lab.enpc.fr/workshop-computational-methods-for-probability-distributions-on-manifolds-paris-2026/) in Paris
