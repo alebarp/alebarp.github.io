@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about_me/
 title: "Workshop Human–AI Alignment: Geometry and Beyond"
 excerpt: "About me"
 author_profile: true
