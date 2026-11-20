@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I'm a Lecturer  (Assistant Professor) in the [Faculty of Mathematical & Physical Sciences](https://www.ucl.ac.uk/mathematical-physical-sciences/mathematical-physical-sciences-0) at UCL, where I co-lead the 
-[Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, teach the [Statistical Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/statistical-machine-learning-STAT0042) course, and act as the Statistical Science Departmental Enterprise Co-Ordinator. I am also a member of the [ELLIS European Laboratory for Learning and Intelligent Systems](https://ellis.eu/), as well as UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) and [ELLIS unit](https://ucl-ellis.github.io/).
+[Fundamentals of Statistical Machine Learning](https://fsml-ucl.github.io/) research group, teach the [Statistical Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/statistical-machine-learning-STAT0042) course, and act as the Statistical Science Departmental Enterprise Co-Ordinator. 
+I also co-lead a UCL-KCL explainable AI research group with Chris Banerji, 
+am a member of the [ELLIS European Laboratory for Learning and Intelligent Systems](https://ellis.eu/), as well as UCL's [Geometric Statistics Research Group](https://geometricstatisticsgroup.wordpress.com/) and [ELLIS unit](https://ucl-ellis.github.io/).
 
 My research spans a range of topics, from constructing tools to make deep learning algorithms more interpretable/explainable (for healthcare applications), to developing the geometric foundations of statistics and machine learning.
 
