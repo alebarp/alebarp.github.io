@@ -17,7 +17,8 @@ Workshops
 ======
 
 * I co-organise with Chris Banerji monthly workshops on interpretable deep learning (usually at the Alan Turing Institute)
-* I organise the FSML weekly seminar at UCL
+* I currently organise the [FSML](https://fsml-ucl.github.io/) weekly seminar at UCL
+* I regularly organise workshops on the topics of geometric statistical machine learning. Recently I organised the [Human–AI Alignment: Geometry and Beyond](https://luma.com/nrgjfd4x) and  the [Linking Geometry and Statistics: beyond a mere coincidence?](https://www.turing.ac.uk/events/linking-geometry-and-statistics-beyond-mere-coincidence) workshop.
    
 Previously, I also co-organised the [Topology and Geometry for Data interest group](https://www.turing.ac.uk/research/interest-groups/topology-and-geometry-data),
 and the **Philosophy of AI** seminars (a series of workshops on the philosophy of AI, exploring aspects such as the impact of AI on the art sector and the various notions of intelligence across scientific fields) at the Alan Turing Institute.
