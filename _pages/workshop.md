@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Workshop Human–AI Alignment: Geometry and Beyond"
-permalink: /
+permalink: /workshop/
 author_profile: true
 ---
 
