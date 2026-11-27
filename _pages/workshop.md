@@ -19,10 +19,10 @@ Coffee and lunch will be provided.
 
 ## Confirmed Speakers and Schedule
 
-- 13h-13h30: Lunch
+- 13h00 - 13h30: Lunch
 - 13h30 - 14h10: **[Callum McDougall](https://www.perfectlynormal.co.uk/)**, Google DeepMind. 
 - 14h10 - 14h50: **[Chris Banerji](https://www.kcl.ac.uk/people/christopher-banerji)**, King’s College London. 
-- 14h50-15h20 Coffee
+- 14h50 - 15h20: Coffee
 - 15h20 - 16h00: **[Nandi Schoots](https://nandischoots.com/)**, University of Oxford.
 - 16h00 - 16h40: **[Patrick Leask](https://scholar.google.com/citations?user=KRHo4psAAAAJ&hl=en)**, Durham University.
 
